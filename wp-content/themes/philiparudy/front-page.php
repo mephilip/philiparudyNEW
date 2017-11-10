@@ -5,7 +5,7 @@
 <header>
 </header>
 <div id="page-wrap">
-  My name is Philip Rudy
+  <div>My name is Philip Rudy</div>
 </div>
 </body>
 </html>
